@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -516,11 +515,8 @@
                target="_blank">
                 Instagram: Sereal.matcha
             </a>
-
-        </aside>
-
-    </section>
-
+  </aside>
+ </section>
 </div>
 
 
