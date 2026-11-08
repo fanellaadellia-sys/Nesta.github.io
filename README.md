@@ -526,7 +526,7 @@
 
 <!-- FOOTER -->
 <footer>
-    Hak Cipta SMKN 1 Tangerang, 2026
+    &copy; Hak Cipta SMKN 1 Tangerang, 2026
 </footer>
 
 </body>
